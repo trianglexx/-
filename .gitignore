@@ -1,0 +1,28 @@
+# Large data files
+all_vul_full_processed/
+livable_multiclass_data/
+LIVABLE.zip
+
+# Training results
+multiclass_training_results/
+sade_training_results/
+simple_livable_results/
+simple_livable_no_early_stop_results/
+full_livable_results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Unpacked LIVABLE directory (can be re-generated from zip)
+LIVABLE-main/
+
+# macOS specific
+
+# Extracted folders
+.specstory/
+__MACOSX/
+.DS_Store
+
+# IDE specific
+.vscode/
